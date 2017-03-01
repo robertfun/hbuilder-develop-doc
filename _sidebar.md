@@ -1,4 +1,5 @@
-- [开发环境](develop_tools)
-- [git版本控制](git_tips)
+- 开发工具
+  - [开发环境](develop_tools)
+  - [git版本控制](git_tips)
 - 开发细节
   - [目录结构](project_structure)
