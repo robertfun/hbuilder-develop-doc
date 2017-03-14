@@ -1,5 +1,9 @@
 # git版本控制
 
+## 安装git
+
+[下载地址](https://git-scm.com/)
+
 ## 常用命令
 
 ```bash

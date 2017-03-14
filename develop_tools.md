@@ -12,6 +12,12 @@ cnpm是使用淘宝镜像源安装node module的工具，在命令行工具中�
 npm install -g cnpm --registry=https://registry.npm.taobao.org
 ```
 
+## 安装gulp
+
+```bash
+cnpm install gulp -g
+```
+
 ## 克隆项目后的操作
 
 项目的机构分为，gulp，mockApiData(可能没有)
